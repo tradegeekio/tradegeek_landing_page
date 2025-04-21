@@ -3,7 +3,7 @@ import { LandingPage } from "@/components/landing-page"
 
 export default function Home() {
   return (
-    <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
+    <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
       <LandingPage />
     </ThemeProvider>
   )
