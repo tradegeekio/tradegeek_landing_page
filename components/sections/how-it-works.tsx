@@ -111,7 +111,7 @@ export function HowItWorks() {
   }
 
   return (
-    <section className="py-32 relative overflow-hidden" id="how-it-works" ref={containerRef}>
+    <section className=" relative overflow-hidden" id="how-it-works" ref={containerRef}>
       {/* Enhanced animated background */}
       <div className="absolute inset-0 -z-10">
         <div className="absolute inset-0 bg-gradient-to-b from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800/50" />

@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'TradeGeek',
+  description: 'TradeGeek helps auto wholesalers manage inventory, connect with buyers via SMS, and track deals from first contact to final sale.',
+  keywords: 'wholesale vehicles, dealer management, car auction software, automotive messaging',
 }
 
 export default function RootLayout({

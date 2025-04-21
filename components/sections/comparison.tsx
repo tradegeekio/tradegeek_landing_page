@@ -42,7 +42,7 @@ export function Comparison() {
   const [activeChallenge, setActiveChallenge] = useState<number | null>(null)
 
   return (
-    <section className="py-24 relative overflow-hidden" id="comparison" ref={containerRef}>
+    <section className="relative overflow-hidden" id="comparison" ref={containerRef}>
       {/* Vibrant animated background */}
       <div className="absolute inset-0 -z-10">
         <div className="absolute inset-0 bg-gradient-to-br from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800" />

@@ -28,7 +28,7 @@ export function IndustryChallenges() {
   ]
 
   return (
-    <section className="py-20 bg-slate-50 dark:bg-slate-900/50" id="challenges">
+    <section className=" bg-slate-50 dark:bg-slate-900/50" id="challenges">
       <div className="container px-4 md:px-6">
         <div className="flex flex-col items-center text-center space-y-4 mb-12">
           <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
